@@ -1,4 +1,4 @@
-# uav-monitor
+# UAV-Monitor
 
 This is a tool to detect the status of the drone through the terminal, eliminating the step of `rostopic echo xxx`. Try to subscribe to the topic of your interest by reading [FTXUI](https://github.com/ArthurSonzogni/FTXUI)
 
