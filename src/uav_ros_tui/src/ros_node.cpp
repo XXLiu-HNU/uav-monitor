@@ -86,7 +86,7 @@ void FtxuiVis::DrawTUI()
 {
     ftxui::Element Document = ftxui::vbox({
                                   ftxui::hbox({
-                                      ftxui::text(L"  𝗨 𝗔 𝗩 𝟭   ") | bgcolor(ftxui::Color::Green) | ftxui::center | ftxui::bold,
+                                      ftxui::text(L"  𝓤 𝓐 𝓥 1  ") | bgcolor(ftxui::Color::Green) | ftxui::center | ftxui::bold,
                                   }),
                                   ftxui::separator(),
                                   ftxui::hbox({
